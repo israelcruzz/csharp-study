@@ -1,3 +1,3 @@
-# Estudos de C#
+# C# Studies
 
-Este repositório contém uma coleção de scripts de estudos de C# desenvolvidos para praticar conceitos básicos e avançados da linguagem.
+This repository contains a collection of C# study scripts designed to practice basic and advanced concepts of the language.
